@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.internal.util.blaze;
+package com.android.internal.util.evolution;
 
 import android.app.Application;
 import android.content.Context;
